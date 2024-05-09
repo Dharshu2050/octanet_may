@@ -1,6 +1,14 @@
-.css{
-    border-radius: 200;
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-.container{
-    box-sizing: content-box;
+.card{
+    width: 200px;
+    margin: 200px;
+    padding: 10px;
+}
+
+.list-group{
+    width: 420px;
 }
